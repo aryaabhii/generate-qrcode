@@ -6,7 +6,7 @@ body {
      background-color: #f1f1f1;
 }
 
-.text-info>span {
+.text-success>span {
      border-bottom: 1px dotted blue;
      font-weight: 800;
 }
