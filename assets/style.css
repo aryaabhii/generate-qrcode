@@ -7,7 +7,7 @@ body {
 }
 
 .text-success>span {
-     border-bottom: 1px dotted blue;
+     border-bottom: 1px dotted rgb(86, 211, 27);
      font-weight: 800;
 }
 
